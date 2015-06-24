@@ -1,4 +1,4 @@
-# Site da Comunidade
+# Site da Comunidade Valadares T.I
 
 1. Faça um [fork](https://help.github.com/articles/fork-a-repo/) do repositório;
 3. [Configure seu fork](https://help.github.com/articles/configuring-a-remote-for-a-fork/);
