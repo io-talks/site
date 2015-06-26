@@ -1,5 +1,7 @@
 # Site da Comunidade
 
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/valadares-ti/site/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
 1. Faça um [fork](https://help.github.com/articles/fork-a-repo/) do repositório;
 3. [Configure seu fork](https://help.github.com/articles/configuring-a-remote-for-a-fork/);
 2. Verifique as [issues](https://github.com/valadares-ti/site/issues/) e escolha uma que não tenha ninguém trabalhando;
